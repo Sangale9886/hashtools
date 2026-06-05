@@ -1,0 +1,9 @@
+# HashTools v2.0 - Requirements
+# All core features use Python stdlib only.
+# The packages below are optional enhancements.
+
+# Optional: colored output on Windows
+colorama>=0.4.6
+
+# Optional: faster MD4/NTLM support
+# pycryptodome>=3.20.0
